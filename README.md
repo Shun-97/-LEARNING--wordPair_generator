@@ -1,6 +1,6 @@
 # [LEARNING] wordPair_generator
 
-First try in learning flutter using youtube workshop
+First try in learning flutter using youtube
 
 ## Source
 

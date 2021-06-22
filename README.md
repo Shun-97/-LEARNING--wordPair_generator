@@ -6,6 +6,10 @@ First try in learning flutter using youtube
 
 Youtube Link: https://www.youtube.com/watch?v=1gDhl4leEzA
 
+## Difference from the video
+
+Allow data to be stored locally so data carries over.
+
 ## Download APK to test
 https://smu-my.sharepoint.com/:f:/g/personal/shunhui_lee_2019_sis_smu_edu_sg/EmwiTqFviNJNsXCvoxH62FoB6fUNLtSVxfMBKo7ggMoYOQ?e=Rnn5FY
 
